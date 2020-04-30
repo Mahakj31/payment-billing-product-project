@@ -24,14 +24,14 @@ RUN THIS FILE IN COMMAND PROMPT:-
  
 Steps:-
 WELCOME PAGE:-
-![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img7.png)
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img2.png)
 
 FILL UP THE DETAILS IN :-
 1.	ITEN NAME
 2.	QUANTITY
 3.	PRICE
  
-![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img2.png)
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img7.png)
 
 On Filling Correct Detail:- Click on add button…add button will add the product to the print screen
  
