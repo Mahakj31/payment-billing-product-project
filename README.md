@@ -20,7 +20,7 @@ Tool Used :-Use any IDE to develop the PROJECT in NETBEANS IDE VERSION 8.2RC
 
 
 RUN THIS FILE IN COMMAND PROMPT:-
-
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img1.png)
  
 Steps:-
 WELCOME PAGE:-
