@@ -6,7 +6,7 @@ Branch : Btech +MBA(section –I)
 2nd year/ 4th sem
 
 
-How Payment Billing System Works?	
+                        How Payment Billing System Works?	
 
 
 				Welcome Page     
