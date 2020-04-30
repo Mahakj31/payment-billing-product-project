@@ -24,29 +24,29 @@ RUN THIS FILE IN COMMAND PROMPT:-
  
 Steps:-
 WELCOME PAGE:-
- 
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img7.png)
 
 FILL UP THE DETAILS IN :-
 1.	ITEN NAME
-
 2.	QUANTITY
 3.	PRICE
  
-
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img2.png)
 
 On Filling Correct Detail:- Click on add button…add button will add the product to the print screen
  
-   
+   ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img3.png)
 
 Now add another product to generate the bill
  
-
+![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img4.png)
 CLICK ON THE PRINT BUTTON TO GENERATE THE BILL ON THE PRINTER:-
 ATTACH TO THE PC
- 
+ ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img5.png)
 
  CLOSE BUTTON YOU CAN GET EXIT TO THE THE MINI PROJECT        ON BILLING  DETAILS
  
+ ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img6.png)
 
 
 Submitted to : Mr. Sachine Chirgaiya Sir
