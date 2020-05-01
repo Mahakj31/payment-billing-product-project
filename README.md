@@ -56,12 +56,15 @@ ATTACH TO THE PC
  ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/img6.png)
  
  FLOW CHART
+ 
  ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/i1.png)
  
  ACTIVITY DIAGRAM
+ 
  ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/i2.png)
  
 ER DIAGRAM
+
 ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/i3.png)
  
 CLASS DIAGRAM
@@ -69,7 +72,9 @@ CLASS DIAGRAM
 ![](https://github.com/Mahakj31/payment-billing-product-project/blob/master/i4.png)
  
 Submitted to : Mr. Sachine Chirgaiya Sir
-submitted by : Mahak Jain 
+
+
+Submitted by : Mahak Jain 
 enroll : 1810DMBCSE03294 (CS-I)
  
 
